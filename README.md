@@ -4,5 +4,7 @@
   ### Known Bugs
     The only "bug" I have was figuring out github.
      Cant seem to resize the projects section
-  ### Technologies Used
+  #### Technologies Used
     HTML and CSS
+    ##### Link to git hub page
+      https://github.com/MonBoza/code-review-1.git
