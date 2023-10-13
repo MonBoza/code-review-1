@@ -18,7 +18,13 @@ body {
     border-right: 15%;
 }
 .highlight{
-    color: red;
+    color: rgb(80, 87, 119);
+    font-weight: bold;
+}
+#box{
+    margin: 12px;
+    border: 5px solid rgb(108, 123, 209);
+    padding: 4px;
 }
 
 img {
