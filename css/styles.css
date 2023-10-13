@@ -4,23 +4,24 @@ body {
     color: rgb(73, 123, 193);
     text-align: center;
 }
-.highlight{
-    color: red;
-}
 .column1{
-    width: 400px;
-    margin: 20px;
-    border: 30%;
+    width: 500px;
+    margin: 10px;
+    border: 20%;
     text-align: left;
 }
 .column2{
-    width: 400px;
-    margin: 10px;
+    width: 500px;
     text-align: left;
     float:right;
+    margin: 10px;
+    border-right: 15%;
+}
+.highlight{
+    color: red;
 }
 
 img {
-    width: 50%;
+    width: 35%;
 }
 
