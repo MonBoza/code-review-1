@@ -4,24 +4,23 @@ body {
     color: rgb(73, 123, 193);
     text-align: center;
 }
+.highlight{
+    color: red;
+}
 .column1{
-    float:left;
-    width: 680px;
-    margin: 10px;
-    border: 10%;
-    border-color: aquamarine;
+    width: 400px;
+    margin: 20px;
+    border: 30%;
     text-align: left;
 }
 .column2{
-    float: right;
-    width: 680px;
+    width: 400px;
     margin: 10px;
     text-align: left;
+    float:right;
 }
-.completed{
 
-}
 img {
-    width: 30%;
-    float:center;
+    width: 50%;
 }
+
