@@ -1,7 +1,7 @@
 # Profile
  ## My first code review on everything we learned this week.
     Mostly a page about me with everything I learned this week.
-  ### Bugs
+  ### Known Bugs
     The only "bug" I have was figuring out github
-  ### technologies Used
+  ### Technologies Used
     HTML and CSS

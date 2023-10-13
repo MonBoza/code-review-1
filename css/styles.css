@@ -2,20 +2,25 @@ body {
     background-color: antiquewhite;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(73, 123, 193);
+    text-align: center;
 }
 .column1{
     float:left;
-    width: 300px;
+    width: 680px;
     margin: 10px;
+    border: 10%;
+    border-color: aquamarine;
+    text-align: left;
 }
 .column2{
     float: right;
-    width: 300px;
+    width: 680px;
     margin: 10px;
+    text-align: left;
 }
+.completed{
 
-
-
+}
 img {
     width: 30%;
     float:center;
