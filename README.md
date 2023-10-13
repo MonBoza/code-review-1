@@ -6,5 +6,5 @@
      Cant seem to resize the projects section
   #### Technologies Used
     HTML and CSS
-    ##### Link to git hub page
+  ##### Link to git hub page
       https://github.com/MonBoza/code-review-1.git
