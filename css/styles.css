@@ -10,7 +10,7 @@ ol li {
 h1 {
     width: 35%;
     text-align: center;
-    margin: auto;
+    margin: 0 auto;
     height: 75%;
     background-color: rgb(132, 214, 214);
     text-transform: uppercase;
@@ -18,12 +18,11 @@ h1 {
 .column1{
     width: 50%;
     margin: 10px;
-    border: 20%;
+    border: 20px solid;
     text-align: left;
     padding: 10%;
     float:left;
-    height: 50%;
-    length: 50%
+    height: 40%;
 
 }
 .column2{
@@ -31,13 +30,13 @@ h1 {
     text-align: center;
     float:right;
     margin: 40px;
-    border-right: 8%;
+    border: 3px solid;
 }
 .me {
     width: 500px;
     margin: 10px;
-    border: 20%;
-    text-align: left;
+    border: 10px solid;
+    text-align: center;
     float: left;
     text-align: center;
 }
