@@ -16,12 +16,14 @@ h1 {
     text-transform: uppercase;
 }
 .column1{
-    width: 700px;
+    width: 50%;
     margin: 10px;
     border: 20%;
     text-align: left;
     padding: 10%;
     float:left;
+    height: 50%;
+    length: 50%
 
 }
 .column2{
