@@ -15,7 +15,7 @@
 
 ## Setup/Installation Requirements
 
-* Go to MonBoza.github.io/code-review-1/
+* Open MonBoza.github.io/code-review-1/ in your browser.
 * Click links on the site to view previous projects. 
 
 
@@ -49,6 +49,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 * Contact me for questions or concerns at monboza@gmail.com
+* MonBoza.github.io/code-review-1
 
 Copyright (c) _10/17/23_ _Monica Barboza_
 
