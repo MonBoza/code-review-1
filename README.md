@@ -11,11 +11,11 @@
 
 ## Description
 
-_Profile was created to inform users about me. It also provides links to show past projects I worked on.
+ Profile was created to inform users about me. It also provides links to show past projects I worked on.
 
 ## Setup/Installation Requirements
 
-* Click this link MonBoza.github.io/code-review-1/
+* Go to MonBoza.github.io/code-review-1/
 * Click links on the site to view previous projects. 
 
 
@@ -28,7 +28,7 @@ _Profile was created to inform users about me. It also provides links to show pa
 ## License
 MIT License
 
-Copyright (c) [2023] [Monica Barboza ] 
+Copyright (c) [2023] [Monica Barboza] 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
