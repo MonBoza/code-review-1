@@ -22,7 +22,7 @@
 ## Known Bugs
 
 * One issue sizing the borders.
-* updated by adding the px size and "solid:
+* updated by adding the px size and "solid:"
 * the image doesn't seem to load.
 
 ## License
