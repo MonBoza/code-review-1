@@ -8,4 +8,4 @@
   #### Technologies Used
     HTML and CSS
   ##### Link to git hub page
-      https://github.com/MonBoza/code-review-1.git
+      https://monboza.github.io/code-review-1/
